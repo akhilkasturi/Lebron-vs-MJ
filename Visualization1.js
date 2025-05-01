@@ -181,7 +181,7 @@
                 .transition()
                 .attr("fill", "none")
                 .attr("stroke", d => color(d.name))
-                .attr("stroke-width", 3)
+                .attr("stroke-width", 5)
                 .attr("d", d => line(d.values));
 
             playerLines.exit().remove();
