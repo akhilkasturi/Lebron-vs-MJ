@@ -59,8 +59,8 @@
         .range(["#1d428a", "#ce1141"]);
 
     Promise.all([
-        d3.csv("LebronTotals.csv"),
-        d3.csv("MJTotals.csv")
+        d3.csv("/csv/LebronTotals.csv"),
+        d3.csv("/csv/MJTotals.csv")
     ]).then(function([lebronData, mjData]) {
         lebronData.forEach((d, i) => {
             d.SeasonNum = i + 1;
