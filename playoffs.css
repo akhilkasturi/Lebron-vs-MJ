@@ -1,0 +1,36 @@
+#playoffComp .bar {
+    stroke: #333;
+    stroke-width: 1px;
+    cursor: pointer;
+  }
+  
+  #playoffComp .tooltip {
+    position: absolute;
+    background: white;
+    border: 1px solid #ccc;
+    padding: 8px;
+    font-size: 13px;
+    pointer-events: none;
+    display: none;
+  }
+  
+  #playoffComp .icon-img {
+    height: 16px;
+    vertical-align: middle;
+    margin: 0 2px;
+  }
+  
+  #playoffComp .filter-btn {
+    margin-right: 10px;
+    padding: 5px 10px;
+    cursor: pointer;
+    border: 1px solid #aaa;
+    background: #f4f4f4;
+  }
+  
+  #playoffComp .filter-btn.active {
+    background-color: #007bff;
+    color: white;
+    border-color: #007bff;
+  }
+  

@@ -1,0 +1,733 @@
+[
+  {
+    "year": 2007,
+    "round": "First Round",
+    "team": "Wizards",
+    "record": "41-41",
+    "all_stars": 2,
+    "mvps": 0,
+    "defending_champ": "No",
+    "results": "4-0",
+    "srs_score": -0.8,
+    "championship_odds": 6500,
+    "srs_rank": 15,
+    "all_star_players": [
+      "Gilbert Arenas",
+      "Caron Butler"
+    ],
+    "mvp_players": []
+  },
+  {
+    "year": 2007,
+    "round": "Semifinals",
+    "team": "Nets",
+    "record": "41-41",
+    "all_stars": 2,
+    "mvps": 0,
+    "defending_champ": "No",
+    "results": "4-2",
+    "srs_score": -1.0,
+    "championship_odds": 1500,
+    "srs_rank": 16,
+    "all_star_players": [
+      "Vince Carter",
+      "Jason Kidd"
+    ],
+    "mvp_players": []
+  },
+  {
+    "year": 2007,
+    "round": "Conference Finals",
+    "team": "Pistons",
+    "record": "53-29",
+    "all_stars": 2,
+    "mvps": 0,
+    "defending_champ": "No",
+    "results": "4-2",
+    "srs_score": 3.69,
+    "championship_odds": 800,
+    "srs_rank": 6,
+    "all_star_players": [
+      "Chauncey Billups",
+      "Richard Hamilton"
+    ],
+    "mvp_players": []
+  },
+  {
+    "year": 2007,
+    "round": "Finals",
+    "team": "Spurs",
+    "record": "58-24",
+    "all_stars": 2,
+    "mvps": 1,
+    "defending_champ": "No",
+    "results": "0-4",
+    "srs_score": 8.35,
+    "championship_odds": 450,
+    "srs_rank": 1,
+    "all_star_players": [
+      "Tim Duncan",
+      "Tony Parker"
+    ],
+    "mvp_players": [
+      "Tim Duncan"
+    ]
+  },
+  {
+    "year": 2011,
+    "round": "First Round",
+    "team": "Sixers",
+    "record": "41-41",
+    "all_stars": 0,
+    "mvps": 0,
+    "defending_champ": "No",
+    "results": "4-1",
+    "srs_score": 1.0,
+    "championship_odds": 10000,
+    "srs_rank": 14,
+    "all_star_players": [],
+    "mvp_players": []
+  },
+  {
+    "year": 2011,
+    "round": "Semifinals",
+    "team": "Celtics",
+    "record": "56-26",
+    "all_stars": 4,
+    "mvps": 1,
+    "defending_champ": "No",
+    "results": "4-1",
+    "srs_score": 4.83,
+    "championship_odds": 1000,
+    "srs_rank": 6,
+    "all_star_players": [
+      "Ray Allen",
+      "Kevin Garnett",
+      "Paul Pierce",
+      "Rajon Rondo"
+    ],
+    "mvp_players": [
+      "Kevin Garnett"
+    ]
+  },
+  {
+    "year": 2011,
+    "round": "Conference Finals",
+    "team": "Bulls",
+    "record": "62-20",
+    "all_stars": 1,
+    "mvps": 1,
+    "defending_champ": "No",
+    "results": "4-1",
+    "srs_score": 6.53,
+    "championship_odds": 1400,
+    "srs_rank": 2,
+    "all_star_players": [
+      "Derrick Rose"
+    ],
+    "mvp_players": [
+      "Derrick Rose"
+    ]
+  },
+  {
+    "year": 2011,
+    "round": "Finals",
+    "team": "Mavericks",
+    "record": "57-25",
+    "all_stars": 1,
+    "mvps": 1,
+    "defending_champ": "No",
+    "results": "2-4",
+    "srs_score": 4.41,
+    "championship_odds": 2000,
+    "srs_rank": 8,
+    "all_star_players": [
+      "Dirk Nowitzki"
+    ],
+    "mvp_players": [
+      "Dirk Nowitzki"
+    ]
+  },
+  {
+    "year": 2012,
+    "round": "First Round",
+    "team": "Knicks",
+    "record": "36-30",
+    "all_stars": 1,
+    "mvps": 0,
+    "defending_champ": "No",
+    "results": "4-1",
+    "srs_score": 2.39,
+    "championship_odds": 1600,
+    "srs_rank": 10,
+    "all_star_players": [
+      "Carmelo Anthony"
+    ],
+    "mvp_players": []
+  },
+  {
+    "year": 2012,
+    "round": "Semifinals",
+    "team": "Pacers",
+    "record": "42-24",
+    "all_stars": 1,
+    "mvps": 0,
+    "defending_champ": "No",
+    "results": "4-2",
+    "srs_score": 2.6,
+    "championship_odds": 6600,
+    "srs_rank": 8,
+    "all_star_players": [
+      "Roy Hibbert"
+    ],
+    "mvp_players": []
+  },
+  {
+    "year": 2012,
+    "round": "Conference Finals",
+    "team": "Celtics",
+    "record": "39-27",
+    "all_stars": 2,
+    "mvps": 1,
+    "defending_champ": "No",
+    "results": "4-3",
+    "srs_score": 2.26,
+    "championship_odds": 1600,
+    "srs_rank": 12,
+    "all_star_players": [
+      "Paul Pierce",
+      "Rajon Rondo"
+    ],
+    "mvp_players": [
+      "Kevin Garnett"
+    ]
+  },
+  {
+    "year": 2012,
+    "round": "Finals",
+    "team": "Thunder",
+    "record": "47-19",
+    "all_stars": 2,
+    "mvps": 0,
+    "defending_champ": "No",
+    "results": "4-1",
+    "srs_score": 6.44,
+    "championship_odds": 700,
+    "srs_rank": 3,
+    "all_star_players": [
+      "Kevin Durant",
+      "Russell Westbrook"
+    ],
+    "mvp_players": []
+  },
+  {
+    "year": 2013,
+    "round": "First Round",
+    "team": "Bucks",
+    "record": "38-44",
+    "all_stars": 0,
+    "mvps": 0,
+    "defending_champ": "No",
+    "results": "4-0",
+    "srs_score": -1.83,
+    "championship_odds": 10000,
+    "srs_rank": 21,
+    "all_star_players": [],
+    "mvp_players": []
+  },
+  {
+    "year": 2013,
+    "round": "Semifinals",
+    "team": "Bulls",
+    "record": "45-37",
+    "all_stars": 2,
+    "mvps": 0,
+    "defending_champ": "No",
+    "results": "4-1",
+    "srs_score": 0.0,
+    "championship_odds": 1200,
+    "srs_rank": 14,
+    "all_star_players": [
+      "Luol Deng",
+      "Joakim Noah"
+    ],
+    "mvp_players": []
+  },
+  {
+    "year": 2013,
+    "round": "Conference Finals",
+    "team": "Pacers",
+    "record": "49-32",
+    "all_stars": 1,
+    "mvps": 0,
+    "defending_champ": "No",
+    "results": "4-3",
+    "srs_score": 3.34,
+    "championship_odds": 3300,
+    "srs_rank": 9,
+    "all_star_players": [
+      "Paul George"
+    ],
+    "mvp_players": []
+  },
+  {
+    "year": 2013,
+    "round": "Finals",
+    "team": "Spurs",
+    "record": "58-24",
+    "all_stars": 2,
+    "mvps": 1,
+    "defending_champ": "No",
+    "results": "4-3",
+    "srs_score": 6.67,
+    "championship_odds": 1600,
+    "srs_rank": 3,
+    "all_star_players": [
+      "Tim Duncan",
+      "Tony Parker"
+    ],
+    "mvp_players": [
+      "Tim Duncan"
+    ]
+  },
+  {
+    "year": 2014,
+    "round": "First Round",
+    "team": "Bobcats",
+    "record": "43-39",
+    "all_stars": 0,
+    "mvps": 0,
+    "defending_champ": "No",
+    "results": "4-0",
+    "srs_score": -0.99,
+    "championship_odds": 30000,
+    "srs_rank": 17,
+    "all_star_players": [],
+    "mvp_players": []
+  },
+  {
+    "year": 2014,
+    "round": "Semifinals",
+    "team": "Nets",
+    "record": "44-38",
+    "all_stars": 1,
+    "mvps": 0,
+    "defending_champ": "No",
+    "results": "4-1",
+    "srs_score": -1.8,
+    "championship_odds": 1200,
+    "srs_rank": 24,
+    "all_star_players": [
+      "Joe Johnson"
+    ],
+    "mvp_players": []
+  },
+  {
+    "year": 2014,
+    "round": "Conference Finals",
+    "team": "Pacers",
+    "record": "56-26",
+    "all_stars": 2,
+    "mvps": 0,
+    "defending_champ": "No",
+    "results": "4-2",
+    "srs_score": 3.83,
+    "championship_odds": 1400,
+    "srs_rank": 8,
+    "all_star_players": [
+      "Paul George",
+      "Roy Hibbert"
+    ],
+    "mvp_players": []
+  },
+  {
+    "year": 2014,
+    "round": "Finals",
+    "team": "Spurs",
+    "record": "62-20",
+    "all_stars": 1,
+    "mvps": 1,
+    "defending_champ": "No",
+    "results": "1-4",
+    "srs_score": 8.45,
+    "championship_odds": 1200,
+    "srs_rank": 1,
+    "all_star_players": [
+      "Tony Parker"
+    ],
+    "mvp_players": [
+      "Tim Duncan"
+    ]
+  },
+  {
+    "year": 2015,
+    "round": "First Round",
+    "team": "Celtics",
+    "record": "40-42",
+    "all_stars": 0,
+    "mvps": 0,
+    "defending_champ": "No",
+    "results": "4-0",
+    "srs_score": -0.3,
+    "championship_odds": 15000,
+    "srs_rank": 16,
+    "all_star_players": [],
+    "mvp_players": []
+  },
+  {
+    "year": 2015,
+    "round": "Semifinals",
+    "team": "Bulls",
+    "record": "50-32",
+    "all_stars": 2,
+    "mvps": 0,
+    "defending_champ": "No",
+    "results": "4-2",
+    "srs_score": 2.88,
+    "championship_odds": 1000,
+    "srs_rank": 10,
+    "all_star_players": [
+      "Jimmy Butler III",
+      "Pau Gasol"
+    ],
+    "mvp_players": []
+  },
+  {
+    "year": 2015,
+    "round": "Conference Finals",
+    "team": "Hawks",
+    "record": "60-22",
+    "all_stars": 4,
+    "mvps": 0,
+    "defending_champ": "No",
+    "results": "4-0",
+    "srs_score": 5.29,
+    "championship_odds": 12500,
+    "srs_rank": 4,
+    "all_star_players": [
+      "Al Horford",
+      "Kyle Korver",
+      "Paul Millsap",
+      "Jeff Teague"
+    ],
+    "mvp_players": []
+  },
+  {
+    "year": 2015,
+    "round": "Finals",
+    "team": "Warriors",
+    "record": "67-15",
+    "all_stars": 2,
+    "mvps": 1,
+    "defending_champ": "No",
+    "results": "2-4",
+    "srs_score": 10.01,
+    "championship_odds": 2800,
+    "srs_rank": 1,
+    "all_star_players": [
+      "Stephen Curry",
+      "Klay Thompson"
+    ],
+    "mvp_players": [
+      "Stephen Curry"
+    ]
+  },
+  {
+    "year": 2016,
+    "round": "First Round",
+    "team": "Pistons",
+    "record": "44-38",
+    "all_stars": 1,
+    "mvps": 0,
+    "defending_champ": "No",
+    "results": "4-0",
+    "srs_score": 0.4,
+    "championship_odds": 25000,
+    "srs_rank": 14,
+    "all_star_players": [
+      "Andre Drummond"
+    ],
+    "mvp_players": []
+  },
+  {
+    "year": 2016,
+    "round": "Semifinals",
+    "team": "Hawks",
+    "record": "48-34",
+    "all_stars": 2,
+    "mvps": 0,
+    "defending_champ": "No",
+    "results": "4-0",
+    "srs_score": 3.49,
+    "championship_odds": 3600,
+    "srs_rank": 7,
+    "all_star_players": [
+      "Al Horford",
+      "Paul Millsap"
+    ],
+    "mvp_players": []
+  },
+  {
+    "year": 2016,
+    "round": "Conference Finals",
+    "team": "Raptors",
+    "record": "56-26",
+    "all_stars": 2,
+    "mvps": 0,
+    "defending_champ": "No",
+    "results": "4-2",
+    "srs_score": 4.5,
+    "championship_odds": 6600,
+    "srs_rank": 5,
+    "all_star_players": [
+      "DeMar DeRozan",
+      "Kyle Lowry"
+    ],
+    "mvp_players": []
+  },
+  {
+    "year": 2016,
+    "round": "Finals",
+    "team": "Warriors",
+    "record": "73-9",
+    "all_stars": 3,
+    "mvps": 1,
+    "defending_champ": "Yes",
+    "results": "4-3",
+    "srs_score": 10.38,
+    "championship_odds": 480,
+    "srs_rank": 2,
+    "all_star_players": [
+      "Stephen Curry",
+      "Draymond Green",
+      "Klay Thompson"
+    ],
+    "mvp_players": [
+      "Stephen Curry"
+    ]
+  },
+  {
+    "year": 2017,
+    "round": "First Round",
+    "team": "Pacers",
+    "record": "42-40",
+    "all_stars": 1,
+    "mvps": 0,
+    "defending_champ": "No",
+    "results": "4-0",
+    "srs_score": -0.62,
+    "championship_odds": 8000,
+    "srs_rank": 18,
+    "all_star_players": [
+      "Paul George"
+    ],
+    "mvp_players": []
+  },
+  {
+    "year": 2017,
+    "round": "Semifinals",
+    "team": "Raptors",
+    "record": "51-31",
+    "all_stars": 2,
+    "mvps": 0,
+    "defending_champ": "No",
+    "results": "4-0",
+    "srs_score": 3.93,
+    "championship_odds": 5500,
+    "srs_rank": 6,
+    "all_star_players": [
+      "DeMar DeRozan",
+      "Kyle Lowry"
+    ],
+    "mvp_players": []
+  },
+  {
+    "year": 2017,
+    "round": "Conference Finals",
+    "team": "Celtics",
+    "record": "53-29",
+    "all_stars": 1,
+    "mvps": 0,
+    "defending_champ": "No",
+    "results": "4-1",
+    "srs_score": 2.25,
+    "championship_odds": 2900,
+    "srs_rank": 8,
+    "all_star_players": [
+      "Isaiah Thomas"
+    ],
+    "mvp_players": []
+  },
+  {
+    "year": 2017,
+    "round": "Finals",
+    "team": "Warriors",
+    "record": "67-15",
+    "all_stars": 4,
+    "mvps": 2,
+    "defending_champ": "No",
+    "results": "1-4",
+    "srs_score": 11.41,
+    "championship_odds": -128,
+    "srs_rank": 1,
+    "all_star_players": [
+      "Stephen Curry",
+      "Kevin Durant",
+      "Draymond Green",
+      "Klay Thompson"
+    ],
+    "mvp_players": [
+      "Stephen Curry",
+      "Kevin Durant"
+    ]
+  },
+  {
+    "year": 2018,
+    "round": "First Round",
+    "team": "Pacers",
+    "record": "48-34",
+    "all_stars": 1,
+    "mvps": 0,
+    "defending_champ": "No",
+    "results": "4-3",
+    "srs_score": 1.24,
+    "championship_odds": 12500,
+    "srs_rank": 13,
+    "all_star_players": [
+      "Victor Oladipo"
+    ],
+    "mvp_players": []
+  },
+  {
+    "year": 2018,
+    "round": "Semifinals",
+    "team": "Raptors",
+    "record": "59-23",
+    "all_stars": 2,
+    "mvps": 0,
+    "defending_champ": "No",
+    "results": "4-0",
+    "srs_score": 7.54,
+    "championship_odds": 4500,
+    "srs_rank": 2,
+    "all_star_players": [
+      "DeMar DeRozan",
+      "Kyle Lowry"
+    ],
+    "mvp_players": []
+  },
+  {
+    "year": 2018,
+    "round": "Conference Finals",
+    "team": "Celtics",
+    "record": "55-27",
+    "all_stars": 2,
+    "mvps": 0,
+    "defending_champ": "No",
+    "results": "4-3",
+    "srs_score": 3.39,
+    "championship_odds": 1200,
+    "srs_rank": 7,
+    "all_star_players": [
+      "Al Horford",
+      "Kyrie Irving"
+    ],
+    "mvp_players": []
+  },
+  {
+    "year": 2018,
+    "round": "Finals",
+    "team": "Warriors",
+    "record": "58-24",
+    "all_stars": 4,
+    "mvps": 2,
+    "defending_champ": "Yes",
+    "results": "0-4",
+    "srs_score": 5.79,
+    "championship_odds": -187,
+    "srs_rank": 3,
+    "all_star_players": [
+      "Stephen Curry",
+      "Kevin Durant",
+      "Draymond Green",
+      "Klay Thompson"
+    ],
+    "mvp_players": [
+      "Stephen Curry",
+      "Kevin Durant"
+    ]
+  },
+  {
+    "year": 2020,
+    "round": "First Round",
+    "team": "Blazers",
+    "record": "35-39",
+    "all_stars": 1,
+    "mvps": 0,
+    "defending_champ": "No",
+    "results": "4-1",
+    "srs_score": -0.61,
+    "championship_odds": 3500,
+    "srs_rank": 16,
+    "all_star_players": [
+      "Damian Lillard"
+    ],
+    "mvp_players": []
+  },
+  {
+    "year": 2020,
+    "round": "Semifinals",
+    "team": "Rockets",
+    "record": "44-28",
+    "all_stars": 2,
+    "mvps": 2,
+    "defending_champ": "No",
+    "results": "4-1",
+    "srs_score": 3.13,
+    "championship_odds": 700,
+    "srs_rank": 7,
+    "all_star_players": [
+      "James Harden",
+      "Russell Westbrook"
+    ],
+    "mvp_players": [
+      "James Harden",
+      "Russell Westbrook"
+    ]
+  },
+  {
+    "year": 2020,
+    "round": "Conference Finals",
+    "team": "Nuggets",
+    "record": "46-27",
+    "all_stars": 1,
+    "mvps": 0,
+    "defending_champ": "No",
+    "results": "4-1",
+    "srs_score": 2.35,
+    "championship_odds": 2000,
+    "srs_rank": 11,
+    "all_star_players": [
+      "Nikola Jokic"
+    ],
+    "mvp_players": []
+  },
+  {
+    "year": 2020,
+    "round": "Finals",
+    "team": "Heat",
+    "record": "44-29",
+    "all_stars": 2,
+    "mvps": 0,
+    "defending_champ": "No",
+    "results": "4-2",
+    "srs_score": 2.59,
+    "championship_odds": 6000,
+    "srs_rank": 9,
+    "all_star_players": [
+      "Bam Adebayo",
+      "Jimmy Butler III"
+    ],
+    "mvp_players": []
+  }
+]
