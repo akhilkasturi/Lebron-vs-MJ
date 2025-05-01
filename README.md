@@ -11,7 +11,7 @@ This project provides a head to head comparison between Lebron James and Michael
 
 ## Installation & Setup
 
-1. Clone the repository:
+1. Clone the repository
 2. Open the index.html directly in your browser, or serve via a local server
 
 ## Collaborators
