@@ -1,0 +1,472 @@
+[
+  {
+    "year":1991,
+    "round":"First Round",
+    "team":"Knicks",
+    "results":"3-0",
+    "defending_champ":"No",
+    "srs_score":-0.43,
+    "srs_rank":16,
+    "record":"39-43",
+    "championship_odds":1500,
+    "all_stars":1,
+    "mvps":0,
+    "all_star_players":[
+      "Patrick Ewing"
+    ],
+    "mvp_players":[
+
+    ]
+  },
+  {
+    "year":1991,
+    "round":"Semifinals",
+    "team":"Sixers",
+    "results":"4-1",
+    "defending_champ":"No",
+    "srs_score":-0.39,
+    "srs_rank":15,
+    "record":"44-38",
+    "championship_odds":1200,
+    "all_stars":2,
+    "mvps":0,
+    "all_star_players":[
+      "Charles Barkley",
+      "Hersey Hawkins"
+    ],
+    "mvp_players":[
+
+    ]
+  },
+  {
+    "year":1991,
+    "round":"Conference Finals",
+    "team":"Pistons",
+    "results":"4-0",
+    "defending_champ":"Yes",
+    "srs_score":3.08,
+    "srs_rank":9,
+    "record":"50-32",
+    "championship_odds":350,
+    "all_stars":2,
+    "mvps":0,
+    "all_star_players":[
+      "Joe Dumars",
+      "Isiah Thomas"
+    ],
+    "mvp_players":[
+
+    ]
+  },
+  {
+    "year":1991,
+    "round":"Finals",
+    "team":"Lakers",
+    "results":"4-1",
+    "defending_champ":"No",
+    "srs_score":6.73,
+    "srs_rank":3,
+    "record":"58-24",
+    "championship_odds":450,
+    "all_stars":2,
+    "mvps":1,
+    "all_star_players":[
+      "Magic Johnson",
+      "James Worthy"
+    ],
+    "mvp_players":[
+      "Magic Johnson"
+    ]
+  },
+  {
+    "year":1992,
+    "round":"First Round",
+    "team":"Heat",
+    "results":"3-0",
+    "defending_champ":"No",
+    "srs_score":-3.94,
+    "srs_rank":21,
+    "record":"38-44",
+    "championship_odds":40000,
+    "all_stars":0,
+    "mvps":0,
+    "all_star_players":[
+
+    ],
+    "mvp_players":[
+
+    ]
+  },
+  {
+    "year":1992,
+    "round":"Semifinals",
+    "team":"Knicks",
+    "results":"4-3",
+    "defending_champ":"No",
+    "srs_score":3.67,
+    "srs_rank":7,
+    "record":"51-31",
+    "championship_odds":2200,
+    "all_stars":1,
+    "mvps":0,
+    "all_star_players":[
+      "Patrick Ewing"
+    ],
+    "mvp_players":[
+
+    ]
+  },
+  {
+    "year":1992,
+    "round":"Conference Finals",
+    "team":"Cavaliers",
+    "results":"4-2",
+    "defending_champ":"No",
+    "srs_score":5.34,
+    "srs_rank":7,
+    "record":"57-25",
+    "championship_odds":4000,
+    "all_stars":2,
+    "mvps":0,
+    "all_star_players":[
+      "Brad Daugherty",
+      "Mark Price"
+    ],
+    "mvp_players":[
+
+    ]
+  },
+  {
+    "year":1992,
+    "round":"Finals",
+    "team":"Trail Blazers",
+    "results":"4-2",
+    "defending_champ":"No",
+    "srs_score":6.94,
+    "srs_rank":2,
+    "record":"57-25",
+    "championship_odds":400,
+    "all_stars":0,
+    "mvps":0,
+    "all_star_players":[
+
+    ],
+    "mvp_players":[
+
+    ]
+  },
+  {
+    "year":1993,
+    "round":"First Round",
+    "team":"Hawks",
+    "results":"3-0",
+    "defending_champ":"No",
+    "srs_score":-0.67,
+    "srs_rank":16,
+    "record":"43-39",
+    "championship_odds":7500,
+    "all_stars":1,
+    "mvps":0,
+    "all_star_players":[
+      "Dominique Wilkins"
+    ],
+    "mvp_players":[
+
+    ]
+  },
+  {
+    "year":1993,
+    "round":"Semifinals",
+    "team":"Cavaliers",
+    "results":"4-0",
+    "defending_champ":"No",
+    "srs_score":6.3,
+    "srs_rank":2,
+    "record":"54-28",
+    "championship_odds":500,
+    "all_stars":3,
+    "mvps":0,
+    "all_star_players":[
+      "Brad Daugherty",
+      "Larry Nance",
+      "Mark Price"
+    ],
+    "mvp_players":[
+
+    ]
+  },
+  {
+    "year":1993,
+    "round":"Conference Finals",
+    "team":"Knicks",
+    "results":"4-2",
+    "defending_champ":"No",
+    "srs_score":5.87,
+    "srs_rank":5,
+    "record":"60-22",
+    "championship_odds":500,
+    "all_stars":1,
+    "mvps":0,
+    "all_star_players":[
+      "Patrick Ewing"
+    ],
+    "mvp_players":[
+
+    ]
+  },
+  {
+    "year":1993,
+    "round":"Finals",
+    "team":"Suns",
+    "results":"4-2",
+    "defending_champ":"No",
+    "srs_score":6.27,
+    "srs_rank":3,
+    "record":"62-20",
+    "championship_odds":1000,
+    "all_stars":2,
+    "mvps":1,
+    "all_star_players":[
+      "Charles Barkley",
+      "Dan Majerle"
+    ],
+    "mvp_players":[
+      "Charles Barkley"
+    ]
+  },
+  {
+    "year":1996,
+    "round":"First Round",
+    "team":"Heat",
+    "results":"3-0",
+    "defending_champ":"No",
+    "srs_score":1.46,
+    "srs_rank":13,
+    "record":"42-40",
+    "championship_odds":7500,
+    "all_stars":1,
+    "mvps":0,
+    "all_star_players":[
+      "Alonzo Mourning"
+    ],
+    "mvp_players":[
+
+    ]
+  },
+  {
+    "year":1996,
+    "round":"Semifinals",
+    "team":"Knicks",
+    "results":"4-1",
+    "defending_champ":"No",
+    "srs_score":2.24,
+    "srs_rank":10,
+    "record":"47-35",
+    "championship_odds":1200,
+    "all_stars":1,
+    "mvps":0,
+    "all_star_players":[
+      "Patrick Ewing"
+    ],
+    "mvp_players":[
+
+    ]
+  },
+  {
+    "year":1996,
+    "round":"Conference Finals",
+    "team":"Magic",
+    "results":"4-0",
+    "defending_champ":"No",
+    "srs_score":5.4,
+    "srs_rank":5,
+    "record":"60-22",
+    "championship_odds":400,
+    "all_stars":2,
+    "mvps":0,
+    "all_star_players":[
+      "Penny Hardaway",
+      "Shaquille O'Neal"
+    ],
+    "mvp_players":[
+
+    ]
+  },
+  {
+    "year":1996,
+    "round":"Finals",
+    "team":"Supersonics",
+    "results":"4-2",
+    "defending_champ":"No",
+    "srs_score":7.4,
+    "srs_rank":2,
+    "record":"64-18",
+    "championship_odds":800,
+    "all_stars":2,
+    "mvps":0,
+    "all_star_players":[
+      "Shawn Kemp",
+      "Gary Payton"
+    ],
+    "mvp_players":[
+
+    ]
+  },
+  {
+    "year":1997,
+    "round":"First Round",
+    "team":"Bullets",
+    "results":"3-0",
+    "defending_champ":"No",
+    "srs_score":1.77,
+    "srs_rank":13,
+    "record":"44-38",
+    "championship_odds":4000,
+    "all_stars":1,
+    "mvps":0,
+    "all_star_players":[
+      "Chris Webber"
+    ],
+    "mvp_players":[
+
+    ]
+  },
+  {
+    "year":1997,
+    "round":"Semifinals",
+    "team":"Hawks",
+    "results":"4-1",
+    "defending_champ":"No",
+    "srs_score":5.51,
+    "srs_rank":5,
+    "record":"56-26",
+    "championship_odds":2000,
+    "all_stars":2,
+    "mvps":0,
+    "all_star_players":[
+      "Christian Laettner",
+      "Dikembe Mutombo"
+    ],
+    "mvp_players":[
+
+    ]
+  },
+  {
+    "year":1997,
+    "round":"Conference Finals",
+    "team":"Heat",
+    "results":"4-1",
+    "defending_champ":"No",
+    "srs_score":5.56,
+    "srs_rank":4,
+    "record":"61-21",
+    "championship_odds":1600,
+    "all_stars":2,
+    "mvps":0,
+    "all_star_players":[
+      "Tim Hardaway",
+      "Alonzo Mourning"
+    ],
+    "mvp_players":[
+
+    ]
+  },
+  {
+    "year":1997,
+    "round":"Finals",
+    "team":"Jazz",
+    "results":"4-2",
+    "defending_champ":"No",
+    "srs_score":7.97,
+    "srs_rank":2,
+    "record":"64-18",
+    "championship_odds":1800,
+    "all_stars":2,
+    "mvps":2,
+    "all_star_players":[
+      "Karl Malone",
+      "John Stockton"
+    ],
+    "mvp_players":[
+      "Karl Malone",
+      "Karl Malone"
+    ]
+  },
+  {
+    "year":1998,
+    "round":"First Round",
+    "team":"Nets",
+    "results":"3-0",
+    "defending_champ":"No",
+    "srs_score":1.88,
+    "srs_rank":14,
+    "record":"43-39",
+    "championship_odds":15000,
+    "all_stars":1,
+    "mvps":0,
+    "all_star_players":[
+      "Jayson Williams"
+    ],
+    "mvp_players":[
+
+    ]
+  },
+  {
+    "year":1998,
+    "round":"Semifinals",
+    "team":"Hornets",
+    "results":"4-1",
+    "defending_champ":"No",
+    "srs_score":2.45,
+    "srs_rank":12,
+    "record":"51-31",
+    "championship_odds":1800,
+    "all_stars":1,
+    "mvps":0,
+    "all_star_players":[
+      "Glen Rice"
+    ],
+    "mvp_players":[
+
+    ]
+  },
+  {
+    "year":1998,
+    "round":"Conference Finals",
+    "team":"Pacers",
+    "results":"4-3",
+    "defending_champ":"No",
+    "srs_score":6.25,
+    "srs_rank":4,
+    "record":"58-24",
+    "championship_odds":2500,
+    "all_stars":2,
+    "mvps":0,
+    "all_star_players":[
+      "Reggie Miller",
+      "Rik Smits"
+    ],
+    "mvp_players":[
+
+    ]
+  },
+  {
+    "year":1998,
+    "round":"Finals",
+    "team":"Jazz",
+    "results":"4-2",
+    "defending_champ":"No",
+    "srs_score":5.73,
+    "srs_rank":5,
+    "record":"62-20",
+    "championship_odds":600,
+    "all_stars":1,
+    "mvps":0,
+    "all_star_players":[
+      "Karl Malone"
+    ],
+    "mvp_players":[
+
+    ]
+  }
+]

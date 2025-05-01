@@ -34,3 +34,29 @@
     border-color: #007bff;
   }
   
+  #legend {
+    margin-top: 12px;
+    font-size: 13px;
+    max-width: 1080px;
+  }
+  
+  #legend strong {
+    display: block;
+    margin-bottom: 4px;
+  }
+  
+  #legend > div {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 14px 20px;
+    align-items: center;
+  }
+  
+  .color-box {
+    display: inline-block;
+    width: 18px;
+    height: 12px;
+    margin-right: 4px;
+    vertical-align: middle;
+  }
+  
