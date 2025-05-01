@@ -1,24 +1,36 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-
-    <link rel="stylesheet" href="playoffs.css" />
-    <!-- import D3 Version 6 here or at the end of the body -->
-    <script src="https://d3js.org/d3.v7.min.js"></script>
-
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="playoffs.css" />
+  <script src="https://d3js.org/d3.v7.min.js"></script>
 </head>
+
 <body>
+  <div style="display: flex; justify-content: space-between; align-items: center; width: 1200px; margin-bottom: 10px;">
+    <div id="buttons" style="display: flex; gap: 10px;"></div>
+    <button id="toggle-player" class="filter-btn active">LeBron</button>
+  </div>
 
-    <div id="playoffComp">
-        <div id="buttons"></div>
-        <svg width="1200" height="700"></svg>
-        <div class="tooltip" id="tooltip"></div>
+  <div id="playoffComp" style="margin-left: 120px;">
+    <svg width="1080" height="700"></svg>
+    <div class="tooltip" id="tooltip"></div>
+
+    <div id="legend">
+      <strong>Legend:</strong>
+      <div>
+        <div><span class="color-box" style="background-color: #e74c3c;"></span> Top 5 team</div>
+        <div><span class="color-box" style="background-color: #e67e22;"></span> Top 10 team</div>
+        <div><span class="color-box" style="background-color: #f1c40f;"></span> Top 20 team</div>
+        <div><span class="color-box" style="background-color: #2ecc71;"></span> Top 30 team</div>
+        <div><img src="./img/allStarLogo.png" width="14" style="vertical-align: middle;"> All-Star</div>
+        <div><img src="./img/MVP.png" width="14" style="vertical-align: middle;"> MVP</div>
+        <div><img src="./img/LOB.png" width="14" style="vertical-align: middle;"> Defending Champion</div>
       </div>
+    </div>
+  </div>
 
-    <script src="./Visualization1.js"></script>
-
-    <script src="./LebronPlayoffs.js"></script>
-
+  <script src="./Visualization1.js"></script>
+  <script src="./PlayoffOpponents.js"></script>
 </body>
 </html>
