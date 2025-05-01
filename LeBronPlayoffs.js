@@ -27,7 +27,7 @@ svg.selectAll(".y-axis .tick line")
     .attr("stroke", "#ccc")
     .attr("stroke-dasharray", "2,2");
 
-d3.json("./lebron_playoff_data.json").then(data => {
+d3.json("lebron_playoff_data.json").then(data => {
     const years = Array.from(new Set(data.map(d => d.year))).sort();
     const nested = d3.group(data, d => d.year);
 
@@ -147,3 +147,4 @@ d3.json("./lebron_playoff_data.json").then(data => {
             renderBars();
         });
 });
+
